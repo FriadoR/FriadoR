@@ -1,6 +1,6 @@
 # 🚀 **Hi, I’m Sergey** 👨‍💻
 
-🌟 **iOS Developer | Swift Enthusiast** 🌱  
+ **iOS Developer | Swift Enthusiast** 🌱  
 I’m passionate about creating **beautiful iOS apps** with **SwiftUI** and **UIKit**!
 
 ---
