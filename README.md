@@ -34,9 +34,10 @@ I’m also exploring PHP and Laravel to learn how to build efficient back-end so
 
 ## 🚀 **Tech Stack**:
 
-- **Languages**: Swift
-- **Frameworks**: UIKit, SwiftUI, Combine, CoreData, CoreAnimation, Lottie and another
-- **Tools**: Xcode, Git, Firebase, GitHub
+- **Languages**: Swift, PHP
+- **Frameworks**: UIKit, SwiftUI, Combine, CoreData, CoreAnimation, Lottie, Laravel and another
+- **Databases**: MySql
+- **Tools**: Xcode, Git, Firebase, GitHub, jQuery and another
 
 ---
 
