@@ -3,12 +3,17 @@
  **iOS Developer | Swift Enthusiast** 🌱  
 I’m passionate about creating **beautiful iOS apps** with **SwiftUI** and **UIKit**!
 
+💻 PHP & Laravel Enthusiast
+I’m also exploring PHP and Laravel to learn how to build efficient back-end solutions and expand my development skills.
+
 ---
 
 ## 🔥 **What I'm Learning**:
 
-- 📚 Currently diving deep into **Swift**, focusing on **UIKit** & **SwiftUI**
-- 🖥️ Building amazing **iOS apps** that are fast, beautiful, and user-friendly
+- 📚 Currently diving deep into Swift, focusing on SwiftUI
+- 🖥️ Building amazing iOS apps that are fast, beautiful, and user-friendly
+- 💻 Exploring PHP and Laravel to build efficient back-end solutions
+- 🗄️ Working with MySQL to manage databases and create dynamic web applications
 
 ---
 
