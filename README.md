@@ -1,10 +1,7 @@
 # 🚀 **Hi, I’m Sergey** 👨‍💻
 
  **iOS Developer | Swift Enthusiast** 🌱  
-I’m passionate about creating **beautiful iOS apps** with **SwiftUI** and **UIKit**!
-
-💻 PHP & Laravel Enthusiast
-I’m also exploring PHP and Laravel to learn how to build efficient back-end solutions and expand my development skills.
+I’m passionate about creating **beautiful iOS apps** with **SwiftUI**!
 
 ---
 
@@ -12,8 +9,6 @@ I’m also exploring PHP and Laravel to learn how to build efficient back-end so
 
 - 📚 Currently diving deep into Swift, focusing on SwiftUI
 - 🖥️ Building amazing iOS apps that are fast, beautiful, and user-friendly
-- 💻 Exploring PHP and Laravel to build efficient back-end solutions
-- 🗄️ Working with MySQL to manage databases and create dynamic web applications
 
 ---
 
@@ -34,10 +29,10 @@ I’m also exploring PHP and Laravel to learn how to build efficient back-end so
 
 ## 🚀 **Tech Stack**:
 
-- **Languages**: Swift, PHP
-- **Frameworks**: UIKit, SwiftUI, Combine, CoreData, CoreAnimation, Lottie, Laravel and another
-- **Databases**: MySql
-- **Tools**: Xcode, Git, Firebase, GitHub, jQuery and another
+- **Languages**: Swift
+- **Frameworks**: UIKit, SwiftUI, Combine, CoreAnimation, Lottie and another
+- **Databases**: CoreData
+- **Tools**: Xcode, Git, Firebase and another
 
 ---
 
